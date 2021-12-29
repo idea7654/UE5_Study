@@ -11,7 +11,7 @@
 *.gch
 *.pch
 
-Content/
+Content/StarterContent
 
 # Compiled Dynamic libraries
 *.so
