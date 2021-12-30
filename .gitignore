@@ -12,6 +12,11 @@
 *.pch
 
 Content/StarterContent
+Content/Larry
+Content/Megascans
+Content/MSPresets
+Content/NI_Food.uasset
+
 
 # Compiled Dynamic libraries
 *.so
